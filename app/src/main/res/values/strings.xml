@@ -1,0 +1,8 @@
+<resources>
+    <string name="mood_widget_label">MindShift mood</string>
+    <string name="mood_widget_desc">Log your mood from the home screen</string>
+    <string name="coping_widget_label">MindShift coping skill</string>
+    <string name="coping_widget_desc">A quick skill card on your home screen</string>
+    <string name="nextup_widget_label">MindShift next up</string>
+    <string name="nextup_widget_desc">Shows your next practice reminder</string>
+</resources>
